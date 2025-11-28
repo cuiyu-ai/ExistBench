@@ -3,6 +3,8 @@
 
 This is the repository for our paper "Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion".
 
+Our dataset can be found at https://huggingface.co/datasets/LMPC-Lab/ExistBench
+
 
 ## The essence of our work rests on two key points:
 
